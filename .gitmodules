@@ -1,3 +1,6 @@
 [submodule "submodule_path"]
 	path = submodule_path
 	url = https://github.com/observer012/Test.git/submodule_path.git
+[submodule "submod"]
+	path = submod
+	url = https://github.com/observer012/Test.git/submod.git
