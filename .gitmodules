@@ -3,4 +3,4 @@
 	url = https://github.com/observer012/Test.git/submodule_path.git
 [submodule "submod"]
 	path = submod
-	url = https://github.com/observer012/Test.git/submod.git
+	url = https://github.com/observer012/Test/blob/main/submod.git
